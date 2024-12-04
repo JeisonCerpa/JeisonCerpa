@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🔭I’m currently working on hospital management system<br><br>🌱 I’m currently learning JavaScript (Node.js, Express, EJS), PHP(Laravel), Pyhton<br><br>👨‍💻 All of my projects are available at https://github.com/JeisonCerpa<br><br>📫 How to reach me cerpajeison8@gmail.com</p>
+<p align="left">🔭I’m currently working on a Hospital Management System<br><br>🌱 I’m currently learning JavaScript (Node.js, Express, EJS), PHP(Laravel), Pyhton<br><br>👨‍💻 All of my projects are available at https://github.com/JeisonCerpa<br><br>📫 How to reach me cerpajeison8@gmail.com</p>
 
 ###
 
@@ -58,7 +58,7 @@
 
 ###
 
-<img align="right" height="215" src="https://i.gifer.com/7V7.gif"  />
+<img align="center" height="215" src="https://i.gifer.com/7V7.gif"  />
 
 ###
 
