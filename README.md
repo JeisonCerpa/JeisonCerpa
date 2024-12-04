@@ -57,8 +57,9 @@
 </div>
 
 ###
-
-<img align="center" height="215" src="https://i.gifer.com/7V7.gif"  />
+<div align="center">
+<img height="215" src="https://i.gifer.com/7V7.gif"  />
+</div>  
 
 ###
 
