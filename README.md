@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">🔭I’m currently working on a Hospital Management System<br><br>🌱 I’m currently learning JavaScript (Node.js, Express, EJS), PHP(Laravel), Pyhton<br><br>👨‍💻 All of my projects are available at https://github.com/JeisonCerpa<br><br>📫 How to reach me cerpajeison8@gmail.com</p>
+<p align="left">🔭🔭 I’m currently working at SIMICS GROUP S.A.S<br><br>🌱 I’m currently learning JavaScript (Node.js, Express, EJS), PHP(Laravel), Pyhton<br><br>👨‍💻 All of my projects are available at https://github.com/JeisonCerpa<br><br>📫 How to reach me cerpajeison8@gmail.com</p>
 
 ###
 
